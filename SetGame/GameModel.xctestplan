@@ -1,0 +1,18 @@
+{
+  "configurations" : [
+    {
+      "id" : "2FB20C76-CA9C-434C-991F-152F1EB286E2",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+
+  },
+  "testTargets" : [
+
+  ],
+  "version" : 1
+}
